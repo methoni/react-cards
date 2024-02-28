@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thrones-cards-react/static/css/main.3ce48f72.css",
+    "main.js": "/thrones-cards-react/static/js/main.c4553d4e.js",
+    "static/media/Inter-Medium.otf": "/thrones-cards-react/static/media/Inter-Medium.16eda82a3c37a6edda09.otf",
+    "static/media/Inter-Black.otf": "/thrones-cards-react/static/media/Inter-Black.b2a2b192860f79c0b89c.otf",
+    "static/media/Inter-Regular.otf": "/thrones-cards-react/static/media/Inter-Regular.a416f4674fad5f019461.otf",
+    "static/media/Inter-Medium.woff": "/thrones-cards-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/thrones-cards-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/thrones-cards-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/thrones-cards-react/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/thrones-cards-react/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/thrones-cards-react/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/like.svg": "/thrones-cards-react/static/media/like.7bbc1e0a404240f3682d.svg",
+    "static/media/trash.svg": "/thrones-cards-react/static/media/trash.a09de9dc1d9ef88fb45c.svg",
+    "static/media/check-like.svg": "/thrones-cards-react/static/media/check-like.2d203577f39d0011aa26.svg",
+    "index.html": "/thrones-cards-react/index.html",
+    "main.3ce48f72.css.map": "/thrones-cards-react/static/css/main.3ce48f72.css.map",
+    "main.c4553d4e.js.map": "/thrones-cards-react/static/js/main.c4553d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce48f72.css",
+    "static/js/main.c4553d4e.js"
+  ]
+}
