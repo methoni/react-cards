@@ -1,0 +1,59 @@
+.popup {
+  display: flex;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0.3s, opacity 0.5s linear;
+  width: 100%;
+  min-height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.popup_opened {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup__card {
+  max-width: 75vw;
+  position: relative;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.popup__pic {
+  max-width: 75vw;
+  max-height: 75vh;
+  border-radius: 5px;
+}
+
+.popup__caption {
+  margin: 0;
+  padding-top: 30px;
+  color: #ece2d0;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.popup__button {
+  box-sizing: border-box;
+  margin: 48px auto 0;
+  padding: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #423726;
+  border: 0;
+  border-radius: 5px;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  color: #ece2d0;
+}
+
+.popup__button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
